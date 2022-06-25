@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
 </br>
-<a href="http://www.git-scm.com.cn/">git</a>
-</br>
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code)
 </br>
 
