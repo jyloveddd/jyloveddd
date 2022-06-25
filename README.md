@@ -1,5 +1,4 @@
 ### Hi there 👋
-大家好，我是jyloveddd，喜欢学习先进技术，写写文章、做做开源项目
 <!--
 **jyloveddd/jyloveddd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
