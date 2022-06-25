@@ -1,5 +1,5 @@
 ### Hi there 👋
-大家好，我是jyloveddd，一个普普通通的业余开发者，工作之外，喜欢五公里越野，写写文章、做做开源项目
+大家好，我是jyloveddd，喜欢五公里越野，写写文章、做做开源项目
 <!--
 **jyloveddd/jyloveddd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
