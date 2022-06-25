@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![jyloveddd's github stats](https://github-readme-stats.vercel.app/api?username=jyloveddd&show_icons=true&theme=radical)
-## 技术栈 Github 统计
+## 喜欢的技术栈 Github 统计
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=jyloveddd&show_icons=true">
 
 Python
