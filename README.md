@@ -1,4 +1,5 @@
 ### Hi there 👋
+本人出身寒微，想靠着自己力量，加入比较优秀的团队！
 <!--
 **jyloveddd/jyloveddd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
