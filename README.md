@@ -8,10 +8,11 @@ Here are some ideas to get you started: -->
 - 🌱 I’m currently learning js
 - 💞️ I’m looking to collaborate on the internet!
 - 📫 How to reach me ? no!
-- 😄 Pronouns: ...
+- 😄 Motto: Where there is a will, there is a way!
 - ⚡ Fun fact: ...
 
 
+<!--- 😄 Pronouns: ...-->
 ![jyloveddd's github stats](https://github-readme-stats.vercel.app/api?username=jyloveddd&show_icons=true&theme=radical)
 
 <!-- ## 技术栈 Github 统计 -->
