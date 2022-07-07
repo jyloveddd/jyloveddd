@@ -2,18 +2,19 @@
 <!--**jyloveddd/jyloveddd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
-<!--  👋 Hi, I’m @jyloveddd，height:1.8m  and weight:75kg and a sunshine boy.
+
+  👋 Hi, I’m @jyloveddd，height:1.8m  and weight:75kg and a sunshine boy.
 - 👀 I’m interested in surfing in the internet,playing the baketball,soccer,tennes,watching the books,running and making some friends!
 - 🌱 I’m currently learning js
 - 💞️ I’m looking to collaborate on the internet!
 - 📫 How to reach me ? no!
 - 😄 Motto: Where there is a will, there is a way!
 - ⚡ Fun fact: ...
--->
 
 
-<!--- 😄 Pronouns: ...--><!--- 
-![jyloveddd's github stats](https://github-readme-stats.vercel.app/api?username=jyloveddd&show_icons=true&theme=radical)-->
+
+ 😄 Pronouns: ...--><!--- 
+![jyloveddd's github stats](https://github-readme-stats.vercel.app/api?username=jyloveddd&show_icons=true&theme=radical)
 
 <!-- ## 技术栈 Github 统计 -->
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=jyloveddd&show_icons=true">
